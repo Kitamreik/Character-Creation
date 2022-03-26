@@ -1,6 +1,8 @@
 # Rick and Morty Bio
 
-We are huge fans of Rick and Morty and we would like to make a biography website about the characters. We have the background color and the font family to be a certain way. There are a few span tags within each li, can we add the facts about each character in the unorderedlist. We would like to an image of a character on the page by setting the src attribute to the relative path in order to show the image. Also set the width attribute to 200px. You can append the image into the card and below the unorderedlist.
+We are huge fans of Rick and Morty and we would like to make a biography website about the characters. We have the background color and the font family to be a certain way. There are a few span tags within each li, can we add the facts about each character in the unordered list. We would like to an image of a character on the page by setting the src attribute to the relative path in order to show the image. Also set the width attribute to 200px and have it be to the right of the bio underordered list. You can append the image into the card and below the unorderedlist.
+
+![mockup](./src/images/mockup.png)
 
 ## Information needed for this assignment
 
@@ -8,7 +10,7 @@ We are huge fans of Rick and Morty and we would like to make a biography website
 - name: Rick Sanchez
 - age: 70
 - occupation: Scientist
-- quote: What, so everyone’s supposed to sleep every single night now? You realize that nighttime makes up half of all time?
+- quote: Wubba lubba dub-dub!
 - background-color: #42f5b9
 - font-family: Verdana, Geneva, Tahoma, sans-serif
 - image can be found inside of the image folder
