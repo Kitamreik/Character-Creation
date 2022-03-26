@@ -4,6 +4,7 @@ We are huge fans of Rick and Morty and we would like to make a biography website
 
 ## Information needed for this assignment
 
+### Character 1
 - name: Rick Sanchez
 - age: 70
 - occupation: Scientist
@@ -12,7 +13,7 @@ We are huge fans of Rick and Morty and we would like to make a biography website
 - font-family: Verdana, Geneva, Tahoma, sans-serif
 - image can be found inside of the image folder
 
-
+### Character 2
 - name: Morty Smith
 - age: 14
 - occupation: Student
@@ -21,7 +22,7 @@ We are huge fans of Rick and Morty and we would like to make a biography website
 - font-family: Verdana, Geneva, Tahoma, sans-serif
 - image can be found inside of the image folder
 
-
+### Character 3
 - name: Beth Smith
 - age: 35
 - occupation: Horse Surgeon
@@ -30,7 +31,7 @@ We are huge fans of Rick and Morty and we would like to make a biography website
 - font-family: Verdana, Geneva, Tahoma, sans-serif
 - image can be found inside of the image folder
 
-
+### Character 4
 - name: Summer Smith
 - age: 17
 - occupation: Student
