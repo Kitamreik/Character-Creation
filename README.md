@@ -1,6 +1,6 @@
 # Rick and Morty Bio
 
-We are huge fans of Rick and Morty and we would like to make a biography website about the characters. We have the background color and the font family to be a certain way. There are a few span tags within each li, can we add the facts about each character in the unordered list. We would like to an image of a character on the page by setting the src attribute to the relative path in order to show the image. Also set the width attribute to 200px and have it be to the right of the bio underordered list. You can append the image into the card and below the unorderedlist.
+We are huge fans of Rick and Morty and we would like to make a biography website about the characters. We have the background color and the font family to be a certain way. There are a few span tags within each li, can we add the facts about each character in the unordered list. We would like to an image of a character on the page by setting the src attribute to the relative path in order to show the image. Also set the width attribute to 200px. You can append the image into the card and have it be to the right of the bio underordered list.
 
 ![mockup](./src/images/mockup.png)
 
