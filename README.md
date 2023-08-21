@@ -38,7 +38,7 @@ We are huge fans of Naruto and we would like to make a biography website about t
 
 ### Character 4
 - name: Kakashi Hatake
--- speciality: Kamui
+- speciality: Kamui
 - age: 26
 - occupation: The Copy Ninja
 - quote: If you don't have it, you'll never do what needs to be done to change.
