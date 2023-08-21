@@ -17,28 +17,31 @@ We are huge fans of Naruto and we would like to make a biography website about t
 - image can be found inside of the image folder
 
 ### Character 2
-- name: Morty Smith
-- age: 14
-- occupation: Student
-- quote: Hi Mr. Jellybean, I’m Morty. I’m on an adventure with my grandpa.
-- background-color: #e57bc8
+- name: Sasuke Uchiha
+- speciality: Chidori 
+- age: 13
+- occupation: Wandering Ninja
+- quote: I hate a lot of things, and I don't particularly like anything!
+- background-color: #42f5b9
 - font-family: Verdana, Geneva, Tahoma, sans-serif
 - image can be found inside of the image folder
 
 ### Character 3
-- name: Beth Smith
-- age: 35
-- occupation: Horse Surgeon
-- quote: Don’t deify the people who leave you.
-- background-color: #2596be
+- name: Sakura Haruno
+- speciality: Medical Ninjutsu 
+- age: 13
+- occupation: Medical Ninja
+- quote: The beauty of the cherry blossoms color the world! And the will of the girls brings victory!
+- background-color: #42f5b9
 - font-family: Verdana, Geneva, Tahoma, sans-serif
 - image can be found inside of the image folder
 
 ### Character 4
-- name: Summer Smith
-- age: 17
-- occupation: Student
-- quote: You’re the little brother. You’re not the cause of your parents’ misery, you’re just a symptom of it.
-- background-color: #8e74bc
+- name: Kakashi Hatake
+-- speciality: Kamui
+- age: 26
+- occupation: The Copy Ninja
+- quote: If you don't have it, you'll never do what needs to be done to change.
+- background-color: #42f5b9
 - font-family: Verdana, Geneva, Tahoma, sans-serif
 - image can be found inside of the image folder
